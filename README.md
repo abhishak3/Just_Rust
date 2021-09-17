@@ -1,2 +1,2 @@
 # JUST RUST
-Trying to get "Rustacean" term
+Trying to get "Rustacean" badge.
